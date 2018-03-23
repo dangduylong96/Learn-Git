@@ -1,1 +1,2 @@
-This First commit
+-This First commit
+-Chuyển về trạng thái trc khi add thành chưa add
