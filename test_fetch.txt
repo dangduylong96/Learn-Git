@@ -1,2 +1,1 @@
-Hello long, thu xem pull nha1
-Xem quan que
+test fetch
